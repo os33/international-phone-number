@@ -22,6 +22,7 @@
     "type": "git",
     "url": "https://github.com/mareczek/international-phone-number.git"
   },
+  main: './release/international-phone-number.js',
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-build-lifecycle": "^0.1.1",
