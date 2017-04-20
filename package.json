@@ -1,5 +1,5 @@
 {
-  "name": "international-phone-number",
+  "name": "@os33/international-phone-number",
   "version": "0.0.1",
   "description": "AngularJS directive for intl-tel-input jQuery plugin",
   "keywords": [
